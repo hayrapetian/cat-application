@@ -1,0 +1,16 @@
+.header ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.header ul li {
+  color: #fff;
+  font-size: 1.3em;
+  margin: 1em;
+  border-radius: 1rem;
+  padding: 1.5em;
+  background-color: #4fa5b2;
+  list-style: none;
+}
